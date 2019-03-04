@@ -2,7 +2,7 @@ backend:
   name: github
   repo: auf-flora.github.io/flora
   branch: master
-  site_domain: unruffled-bose-bc9d51
+  site_domain: vibrant-banach-8e40ed
 
 media_folder: "images/uploads"
 
