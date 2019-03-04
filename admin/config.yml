@@ -2,7 +2,7 @@ backend:
   name: github
   repo: auf-flora.github.io/flora
   branch: master
-  site_domain: vibrant-banach-8e40ed.netlify.com
+  site_domain: quizzical-bhaskara-7e019a.netlify.com
 
 media_folder: "images/uploads"
 
