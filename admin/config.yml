@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: flora/auf-flora.github.io
+  repo: auf-flora.github.io/flora
   branch: master
   site_domain: unruffled-bose-bc9d51
 
