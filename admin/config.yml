@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: auf-flora.github.io/flora
+  repo: user52562.github.io
   branch: master
-  site_domain: quizzical-bhaskara-7e019a.netlify.com
+  site_domain: infallible-bhabha-134626.netlify.com
 
 media_folder: "images/uploads"
 
